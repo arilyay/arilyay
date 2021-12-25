@@ -3,12 +3,10 @@
 - 🌱 I’m currently learning as an undergraduate Informatics student at Sebelas Maret University.
 - 💞️ I’m looking to collaborate on web development or app development projects.
 - 📫 You can reach me through all of my social media listed down below!
-<br> 
-<br>
-- Email: arilyasyaharn@gmail.com <br>
-- Instagram: @arilyaaas <br>
-- Twitter: @arilyaaas <br>
-- Github: @arilyay <br>
+-     Email: arilyasyaharn@gmail.com
+-     Instagram: @arilyaaas
+-     Twitter: @arilyaaas
+-     Github: @arilyay <br>
 
 <!---
 arilyay/arilyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
